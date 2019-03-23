@@ -1,8 +1,6 @@
 import numpy as np
 import sys
 
-from termcolor import colored, cprint
-
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
