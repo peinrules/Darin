@@ -8,8 +8,7 @@ Necessary files:
 To execute: with all installed packages run 
 `$ python3 test.py`
 
-with GAME.py written as one of the agents, where test.py and all others can be found here:
-https://github.com/dasimagin/renju (to run just download all this repo as .zip file, than extract to folder which contains GAME.py and finalNN.txt)
+with GAME.py written as one of the agents, where test.py and all others can be found [here](https://github.com/dasimagin/renju) (to run just download all this repo as .zip file, than extract to folder which contains GAME.py and finalNN.txt)
 
 
 Other files:
