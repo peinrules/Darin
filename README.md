@@ -29,7 +29,5 @@ Already in core of Ubuntu 16.04
 Basic library
 
 Learning code:
-Directly in renju.ipynb, dataWhole.txt is dataset from here: https://github.com/dasimagin/renju/blob/master/data/train-1.tar.xz
+Directly in renju.ipynb, dataWhole.txt is dataset from [here](https://github.com/dasimagin/renju/blob/master/data/train-1.tar.xz)
 but excluding all draw and unknown status games.
-
-Extracting all of this is here
